@@ -13,7 +13,8 @@ Repositório criado baseado no projeto da atividade prática supervisionada (APS
 
 ## Pré requisito
 
-- Install [node]
+- Install [node].
+
 [node]: <https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04>
 
 ## Utilizacao
