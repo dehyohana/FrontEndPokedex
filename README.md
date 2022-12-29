@@ -11,6 +11,10 @@ Repositório criado baseado no projeto da atividade prática supervisionada (APS
 - [Javascript] Linnguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 - [Node.js] Software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. 
 
+[HTML]: <https://developer.mozilla.org/pt-BR/docs/Web/HTML>
+[CSS]: <https://developer.mozilla.org/pt-BR/docs/Web/CSS>
+[Node.js]: <https://nodejs.org/en/>
+
 ## Pré requisito
 
 - Install [node].
