@@ -13,6 +13,7 @@ Repositório criado baseado no projeto da atividade prática supervisionada (APS
 
 [HTML]: <https://developer.mozilla.org/pt-BR/docs/Web/HTML>
 [CSS]: <https://developer.mozilla.org/pt-BR/docs/Web/CSS>
+[Javascript]: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>
 [Node.js]: <https://nodejs.org/en/>
 
 ## Pré requisito
